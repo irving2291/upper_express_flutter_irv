@@ -1,0 +1,13 @@
+{
+  "usernameOrEmail": "Usuario o email",
+  "password": "contraseña",
+  "signIn": "Iniciar sesión",
+  "logIn": "Iniciar sesión",
+  "signUp": "Regístrate",
+  "forgotPassword": "¿Olvidaste la contraseña?",
+  "or": "o",
+  "myShopping": "Mis Compras",
+  "newText": "Nuevo",
+  "newNotice": "Nuevo aviso",
+  "package": "{value} Paquete, {value} Paquetes"
+}

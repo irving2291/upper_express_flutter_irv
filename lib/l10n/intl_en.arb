@@ -1,0 +1,13 @@
+{
+  "usernameOrEmail": "Username or email",
+  "password": "Password",
+  "signIn": "Sign In",
+  "logIn": "Log In",
+  "signUp": "Sign Up",
+  "forgotPassword": "Forgot password?",
+  "or": "or",
+  "myShopping": "My Shopping",
+  "newText": "New",
+  "newNotice": "New Notice",
+  "package": "{value} Package, {value} packages"
+}
